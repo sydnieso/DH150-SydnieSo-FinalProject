@@ -7,7 +7,7 @@ With jam-packed schedules and fast paced lifestyles, many young adults struggle 
 
 
 ## Persona
-
+![Persona](https://github.com/sydnieso/DH150-SydnieSo-FinalProject/blob/master/Persona.png)
 
 ## Scenario 1:
 #### Context:
