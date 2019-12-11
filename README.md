@@ -30,3 +30,5 @@ Here are some of the sketches that I developed when starting to create layout im
 Here are a few screenshots of my high fidelity prototype.
 
 My complete interactive prototype can be found [here](https://sydnieso288937.invisionapp.com/overview/CharityMiles-ck40elkcl03v5019cszthuxye/screens?v=GRDyNZXlsy9Qvy0Q6i12AA%3D%3D&linkshare=urlcopied).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OO3vSINqV98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
