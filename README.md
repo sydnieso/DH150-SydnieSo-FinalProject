@@ -36,7 +36,7 @@ Here are a few pages of my high fidelity prototype.
 
 My complete interactive prototype can be found [here](https://sydnieso288937.invisionapp.com/overview/CharityMiles-ck40elkcl03v5019cszthuxye/screens?v=GRDyNZXlsy9Qvy0Q6i12AA%3D%3D&linkshare=urlcopied).
 
-## Usability Prototype
+## Usability Testing
 A usability test on the latest version of my prototype was conducted. For this test I described the context of each scenario to the partipant and asked her to follow the tasks described within each action/solution section. Click below to watch the usability test on my interactive prototype.
 
 [![Usability Test Video](Usability%20Test%20Video%20Image.png)](https://youtu.be/OO3vSINqV98)
