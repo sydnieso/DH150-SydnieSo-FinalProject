@@ -2,9 +2,7 @@
 
 ## Design Problem
 Finding time to maintain a fitness routine while balancing a busy schedule and striving to help others is a common challenge that young, working individuals have. 
-With the jam-packed schedules and fast paced lifestyles that many young adults have in order to balance their work and social lives, helping others and maintaining a healthy fitness schedule often does not come to mind as a primary importance.
-With jam-packed schedules and fast paced lifestyles, many young adults struggle to balance their work and social lives.
-
+With the jam-packed schedules and fast paced lifestyles that many young adults have in order to balance their work and social lives, helping others and maintaining a healthy fitness schedule often does not come to mind as a primary importance. This Charity Miles app motivates people to maintain a healthy fitness routine and meet new friends around their area all while raising money for the greater good.
 
 ## Persona
 ![Persona](https://github.com/sydnieso/DH150-SydnieSo-FinalProject/blob/master/Persona.png)
