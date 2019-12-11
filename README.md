@@ -44,4 +44,3 @@ A usability test on the latest version of my prototype was conducted. For this t
 ## Pitch Video
 Please find my pitch video below. Thanks!
 [![Pitch Video](https://github.com/sydnieso/DH150-SydnieSo-FinalProject/blob/master/Pitch%20Video%20Image.png)](https://youtu.be/QDeiVRbaBv4)
-
