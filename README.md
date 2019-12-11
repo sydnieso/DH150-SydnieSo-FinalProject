@@ -25,6 +25,8 @@ Kristen opens up Charity Miles on her phone and goes to the community ‘Connect
 
 ## Wireframes/Wireflow
 Here are some of the sketches that I developed when starting to create layout improvements for Charity Miles.
+![Prototype Cluster 1](https://github.com/sydnieso/DH150-SydnieSo-FinalProject/blob/master/Prototype%20Cluster%201.png)
+![Prototype Cluster 2](https://github.com/sydnieso/DH150-SydnieSo-FinalProject/blob/master/Prototype%20Cluster%202.png)
 
 ## Interactive Prototype
 Here are a few pages of my high fidelity prototype.
