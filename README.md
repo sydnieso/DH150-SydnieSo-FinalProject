@@ -27,11 +27,13 @@ Kristen opens up Charity Miles on her phone and goes to the community ‘Connect
 Here are some of the sketches that I developed when starting to create layout improvements for Charity Miles.
 
 ## Interactive Prototype
-Here are a few screenshots of my high fidelity prototype.
+Here are a few pages of my high fidelity prototype.
 
 My complete interactive prototype can be found [here](https://sydnieso288937.invisionapp.com/overview/CharityMiles-ck40elkcl03v5019cszthuxye/screens?v=GRDyNZXlsy9Qvy0Q6i12AA%3D%3D&linkshare=urlcopied).
 
 ## Usability Prototype
-A usability test on the latest version of my prototype was conducted. I read the context of each scenarios to the partipant and asked her to follow the tasks described in each action portion. ![UsabilityTest](https://youtu.be/OO3vSINqV98)
+A usability test on the latest version of my prototype was conducted. I read the context of each scenario to the partipant and asked her to follow the tasks described within each action/solution section.
 
 [![Usability Test Video](https://github.com/sydnieso/DH150-SydnieSo-FinalProject/blob/master/Video%20Image.png)](https://youtu.be/OO3vSINqV98)
+
+
