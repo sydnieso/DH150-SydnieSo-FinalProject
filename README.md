@@ -26,6 +26,7 @@ Kristen opens up Charity Miles on her phone and goes to the community ‘Connect
 ## Wireframes/Wireflow
 Here are some of the wireframe sketches that I developed when starting to create layout improvements for Charity Miles.
 ![Wireframe Sketch 1](https://github.com/sydnieso/DH150-SydnieSo-FinalProject/blob/master/Wireframe%20Sketch%201.png)
+These sketches were the first few drafts that I had created. I got feedback from Professor Cho, stating that it was best to narrow down the functions the app can do based on the main ideas each scenario is striving to complete. In these sketches there are five page buttons on the navigation bar, but as you can see in the next set of sketches I narrowed it down to have three. There is also a page that indicates activity selection, but after further discussion with Professor Cho, I also decided to make this application solely a running app that raises money for charity. 
 ![Wireframe Sketch 2](https://github.com/sydnieso/DH150-SydnieSo-FinalProject/blob/master/WireframeSketch2.jpg)
 
 ## Interactive Prototype
