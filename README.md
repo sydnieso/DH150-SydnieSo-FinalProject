@@ -23,3 +23,10 @@ On Saturday Kristen comes home in the late afternoon after a jam-packed morning 
 #### Action:
 Kristen opens up Charity Miles on her phone and goes to the community ‘Connect’ page where she has given access to her general location (indicated in blue) which shows that she is also active to message. She has a filter set to allow people within a 1 mile radius to connect with her and join her on a run. She selects one of the location icons of a person nearby and finds out that Alexa is only 0.78 miles away. She decides to message her but sees that she has already received a message from Alexa. They chat and decide to meet at the local coffee shop half-way between their homes before their run.
 
+## Wireframes/Wireflow
+Here are some of the sketches that I developed when starting to create layout improvements for Charity Miles.
+
+## Interactive Prototype
+Here are a few screenshots of my high fidelity prototype.
+
+My complete interactive prototype can be found [here](https://sydnieso288937.invisionapp.com/overview/CharityMiles-ck40elkcl03v5019cszthuxye/screens?v=GRDyNZXlsy9Qvy0Q6i12AA%3D%3D&linkshare=urlcopied).
