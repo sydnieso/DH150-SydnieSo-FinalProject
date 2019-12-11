@@ -31,4 +31,5 @@ Here are a few screenshots of my high fidelity prototype.
 
 My complete interactive prototype can be found [here](https://sydnieso288937.invisionapp.com/overview/CharityMiles-ck40elkcl03v5019cszthuxye/screens?v=GRDyNZXlsy9Qvy0Q6i12AA%3D%3D&linkshare=urlcopied).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OO3vSINqV98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Usability Prototype
+A usability test on the latest version of my prototype was conducted. I read the context of each scenarios to the partipant and asked her to follow the tasks described in each action portion. ![UsabilityTest](https://youtu.be/OO3vSINqV98)
