@@ -34,7 +34,7 @@ On this set of wireframe sketches I focused on main frame layouts and created a 
 ## Interactive Prototype
 Here are a few pages of my high fidelity prototype.
 ![Prototype Cluster 1](https://github.com/sydnieso/DH150-SydnieSo-FinalProject/blob/master/Prototype%20Cluster%201.png)
-![Prototype Cluster 2](https://github.com/sydnieso/DH150-SydnieSo-FinalProject/blob/master/Wireframe%20Sketch%202.png)
+![Prototype Cluster 2](https://github.com/sydnieso/DH150-SydnieSo-FinalProject/blob/master/Prototype%20Cluster%202.png)
 
 My complete interactive prototype can be found [here](https://sydnieso288937.invisionapp.com/overview/CharityMiles-ck40elkcl03v5019cszthuxye/screens?v=GRDyNZXlsy9Qvy0Q6i12AA%3D%3D&linkshare=urlcopied).
 
