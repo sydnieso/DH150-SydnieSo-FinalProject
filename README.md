@@ -34,4 +34,4 @@ My complete interactive prototype can be found [here](https://sydnieso288937.inv
 ## Usability Prototype
 A usability test on the latest version of my prototype was conducted. I read the context of each scenarios to the partipant and asked her to follow the tasks described in each action portion. ![UsabilityTest](https://youtu.be/OO3vSINqV98)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/OO3vSINqV98)
+[![Usability Test Video](https://github.com/sydnieso/DH150-SydnieSo-FinalProject/blob/master/Video%20Image.png)](https://youtu.be/OO3vSINqV98)
