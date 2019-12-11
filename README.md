@@ -5,7 +5,7 @@ Finding time to maintain a fitness routine while balancing a busy schedule and s
 With the jam-packed schedules and fast paced lifestyles that many young adults have in order to balance their work and social lives, helping others and maintaining a healthy fitness schedule often does not come to mind as a primary importance. This Charity Miles app motivates people to maintain a healthy fitness routine and meet new friends around their area all while raising money for the greater good.
 
 ## Persona
-![Persona](https://github.com/sydnieso/DH150-SydnieSo-FinalProject/blob/master/Persona.png)
+![Persona](blob/master/Persona.png)
 
 ## Scenario 1: Selecting a charity & completing a run
 #### Context:
