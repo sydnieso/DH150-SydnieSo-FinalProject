@@ -9,14 +9,14 @@ With jam-packed schedules and fast paced lifestyles, many young adults struggle 
 ## Persona
 ![Persona](https://github.com/sydnieso/DH150-SydnieSo-FinalProject/blob/master/Persona.png)
 
-## Scenario 1:
+## Scenario 1: Selecting a charity & completing a run
 #### Context:
 It’s a Thursday evening and Kristin just got home from a long day of teaching her middle school students. She doesn’t feel like looking for a workout class to go to and doesn’t want to pay a large amount of money in order to get some exercise. It’s almost time for her to start cooking dinner for her usual dinner time, but she knows that if she doesn’t work out before she has dinner she will not have the motivation to do so afterwards. She decides she wants to go on a run but also realizes that she hasn’t had the time to volunteer and help out charities like she used to before she moved and her schedule became more hectic.
 
 #### Action:
 Kristen opens up Charity Miles on her phone and already has 'World Wildlife Fund’ selected as the charity she wants to raise money for. She decides she wants to learn more about the charity and browse other charity options to see what else might be of interest to her. After reading the description of the charity ‘Wounded Warrior Project’ she decides she wants to switch to start raising money for that charity instead. Then, she goes back to the Run page and starts her activity. After about 10 minutes of running she realizes that she had accidentally forgot to feed her dog earlier today, so she quickly runs home and ends her activity feeling slightly rushed but still motivated and excited to get back into an active lifestyle. 
 
-## Scenario 2:
+## Scenario 2: Connecting with a new friend
 #### Context:
 On Saturday Kristen comes home in the late afternoon after a jam-packed morning of recording audition tapes. She thinks about the run she did on Thursday and how it made her feel much better both physically and mentally, but realizes that she is still struggling to meet people after moving to a new city. After deciding that she wants to go on a run again, she also decides that she wants to try out the ‘Connect’ feature that Charity Miles offers in order to go out of her comfort zone and do what she can to meet new people!
 
